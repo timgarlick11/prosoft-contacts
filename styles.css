@@ -1,0 +1,80 @@
+html, body {
+	width: 100%;
+	height: 100%;
+
+}
+
+.icon-contact-container {
+	width: 860px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.icon-contact {
+	display: inline-block;
+	width: 165px;
+	border-radius: 100%;
+	height: 165px;
+	margin-left: 40px;
+	background: green;
+}
+
+.icon-info-container {
+	width: 860px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.icon-info {
+	display: inline-block;
+	width:165px;
+	margin-left: 40px;
+	text-align: center;
+}
+.main-contact-container {
+	width: 860px;
+	height: auto;
+	margin: 30px auto 0 auto;
+	border-top: 1px solid rgb(192, 47, 26);
+}
+
+.contact-container {
+	width: 45%;
+	float: left;
+}
+
+/*.form-container {
+	border-top: 1px solid red;
+}*/
+
+.customer-input {
+	width: 45%;
+	height: 20px;
+	margin-top:10px;
+}
+.input-contact {
+	margin-left: 10px;
+}
+
+.message {
+	margin-top:10px;
+	width: 95%;
+	height:100px;
+}
+.info-container {
+	float: right;
+}
+.inner-info-container {
+	width: 100%;
+	height: 100px;
+}
+
+.company-info {
+	width: 115px;
+	float: left;
+}
+.company-phone {
+	margin-left: 90px;
+}
+
+
